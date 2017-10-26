@@ -1,0 +1,4 @@
+#Generated .class files
+*.class
+*.types
+*.conf
